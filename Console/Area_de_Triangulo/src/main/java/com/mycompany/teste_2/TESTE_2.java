@@ -9,10 +9,12 @@ import javax.swing.JOptionPane;
  * @author David
  */
 public class TESTE_2 {
+ // e
  // 1234567890
  // 1234567890
  // 1234567890
  // 1234567890
+ 
     public static void main(String[] args) {
     
        triangulo calc = new triangulo();
