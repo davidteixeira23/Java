@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
  * @author David
  */
 public class TESTE_2 {
-1
+12
     public static void main(String[] args) {
     
        triangulo calc = new triangulo();
