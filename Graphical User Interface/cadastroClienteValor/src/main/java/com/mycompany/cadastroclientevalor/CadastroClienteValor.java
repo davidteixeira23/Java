@@ -6,7 +6,7 @@ package com.mycompany.cadastroclientevalor;
 
 /**
  *
- 1
+ 12
  * @author David
  */
 public class CadastroClienteValor {
