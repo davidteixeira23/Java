@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
  * @author David
  */
 public class TESTE_2 {
- // esta linha abai
+ // esta linha abaixo não possui funcionalidade prática
  // 1234567890
  // 1234567890
  // 1234567890
