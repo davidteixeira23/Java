@@ -7,7 +7,7 @@ package com.mycompany.areavolumecilindrogui;
 /**
  *
  * @author Admin
- 123456
+ 1234567
  */
 public class Calculo {
     
