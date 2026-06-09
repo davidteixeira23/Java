@@ -5,7 +5,7 @@
 package com.mycompany.botaolimpar;
 import javax.swing.*;
 /**
- *fg
+ *
  * @author Admin
  */
 public class BotaoLimpar {
