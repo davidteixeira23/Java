@@ -15,7 +15,5 @@ public class CadastroClienteGUI {
         Janela k1 = new Janela();
         
         k1.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        
-        system.out.prinln("hello world");
     }
 }
