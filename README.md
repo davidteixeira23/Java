@@ -1,5 +1,6 @@
 # ☕ Meu Hub de Java
 <img width="1009" height="414" alt="image" src="https://github.com/user-attachments/assets/ee76e211-0f8f-433c-90c4-65755bf34b62" />
+<img width="1025" height="719" alt="image" src="https://github.com/user-attachments/assets/22714a58-ccb7-4db7-841d-6a67c4c3b79b" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge"/>
