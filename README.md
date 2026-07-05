@@ -12,14 +12,6 @@ O objetivo principal é acompanhar a minha evolução na linguagem, praticar os 
 
 ---
 
-## 🗂️ Estrutura do Repositório
-
-O projeto está organizado em pastas para facilitar a navegação. Abaixo está a descrição do que você encontra em cada uma:
-
-*   📂 `interfaces-graficas/` -> Códigos focados em telas e componentes visuais (Java Swing / AWT).
-
----
-
 ## 🛠️ Tecnologias e Ferramentas
 - **Linguagem:** Java (JDK 17+)
 - **Ambiente de Desenvolvimento:** NetBeans
